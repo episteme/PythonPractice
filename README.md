@@ -1,4 +1,4 @@
-## Doors
+## 100 Doors
 
 http://rosettacode.org/wiki/100_doors
 
