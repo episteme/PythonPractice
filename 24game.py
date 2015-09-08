@@ -35,11 +35,4 @@ def validate(expr, nums):
         return False
     return True
 
-def evaluate(s, n):
-    exp = ""
-    for i in range(0, 4):
-        exp += s[i]
-        exp += n[i]
-    print(eval(exp))
-
 main()
